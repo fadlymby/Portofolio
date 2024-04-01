@@ -231,8 +231,8 @@ function HomeComponent() {
                   orders, and generating a sales report.
                 </p>
                 <p className="text-sm md:text-lg font-serif italic mb-4">
-                  JavaScript, React, TailwindCSS, Redux, HOC, MySQL, Express JS,
-                  Node JS, Axios, REST API, JWT, ORM, Multer, Node Mailer.
+                  JavaScript, React, TailwindCSS, Redux, MySQL, Express JS,
+                  Node JS, Axios, REST API, JWT, ORM, Multer.
                 </p>
                 <div className=" flex flex-row gap-3">
                   <img
