@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-fast-marquee": "^1.6.2",
+    "react-router-dom": "^6.21.2"
+  }
+}
