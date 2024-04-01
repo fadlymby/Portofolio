@@ -79,7 +79,7 @@ function HomeComponent() {
                 <p className="text-xs md:text-sm lg:text-xl text-gray-600 mb-4">
                   FULL STACK WEB DEVELOPMENT
                 </p>
-                <Link to="https://drive.google.com/file/d/1I3mFjIObwo9_mYjXmitJZAGkm6sifL_U/view">
+                <Link to="https://drive.google.com/file/d/1Txzsh7rqrtyAChlk6lCwouyIkfpZEzGW/view?usp=sharing">
                   <button
                     onClick="downloadCV()"
                     className="px-4 py-2 bg-red-500 text-white font-semibold rounded-lg shadow-md hover:bg-red-700 transition ease-in-out duration-300 hover:-translate-y-1 hover:scale-110"
@@ -231,8 +231,8 @@ function HomeComponent() {
                   orders, and generating a sales report.
                 </p>
                 <p className="text-sm md:text-lg font-serif italic mb-4">
-                  JavaScript, React, TailwindCSS, Redux, MySQL, Express JS,
-                  Node JS, Axios, REST API, JWT, ORM, Multer.
+                  JavaScript, React, TailwindCSS, Redux, MySQL, Express JS, Node
+                  JS, Axios, REST API, JWT, ORM, Multer.
                 </p>
                 <div className=" flex flex-row gap-3">
                   <img
